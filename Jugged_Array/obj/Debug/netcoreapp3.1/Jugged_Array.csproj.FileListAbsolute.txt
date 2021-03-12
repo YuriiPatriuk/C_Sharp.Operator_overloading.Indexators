@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\bin\Debug\netcoreapp3.1\Jugged_Array.exe
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\bin\Debug\netcoreapp3.1\Jugged_Array.deps.json
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\bin\Debug\netcoreapp3.1\Jugged_Array.runtimeconfig.json
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\bin\Debug\netcoreapp3.1\Jugged_Array.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\bin\Debug\netcoreapp3.1\Jugged_Array.dll
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\bin\Debug\netcoreapp3.1\Jugged_Array.pdb
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.AssemblyInfo.cs
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.dll
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.pdb
+C:\Users\dev\Desktop\C_Sharp.Operator_overloading.Indexators.Exceptions\Jugged_Array\obj\Debug\netcoreapp3.1\Jugged_Array.genruntimeconfig.cache
